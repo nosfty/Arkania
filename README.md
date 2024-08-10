@@ -4,9 +4,10 @@ Already Done
 - Inventory
 - item system
 - Game lore
-
-To Do:
 - Races of game characters.
+  
+To Do:
+- Character System
 - Craft
 - Text Input System
 - Save\Load
