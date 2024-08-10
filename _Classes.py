@@ -43,16 +43,16 @@ class Inventory:
 
 
 class Races:
-    
     # : Like Humans, Dwarves, Elfs, Draconits, TikTok Gnomes and of course Quadrobers
-
-    def __init__(self, RaceName:str, CanUseMagic:bool, Stamina:int, Hp:int, Strength:int, Wisdom:int, Charisma:int):
+    def __init__(self, RaceName:str, CanUseMagic:bool, Stamina:int, Hp:int, Strength:int, Mana:int, Wisdom:int, Charisma:int):
         self.RaceName = RaceName
         self.CanUseMagic = CanUseMagic
         self.Stamina = Stamina
         self.Hp = Hp
         self.Strength = Strength
+        self.Mana = int
         self.Wisdom = Wisdom
         self.Charima = Charisma
+
 
 
