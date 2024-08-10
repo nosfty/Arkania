@@ -1,2 +1,2 @@
-# Arkania
-Text rpg game.
+# In progress
+
