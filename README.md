@@ -2,4 +2,6 @@
 
 Already Done
 - Inventory
-- Few Items
+- item system
+- Game lore
+- 
