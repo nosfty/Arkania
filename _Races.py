@@ -10,7 +10,7 @@ _Races = [
     Races("Golem", False, 8, 10, 7, 0, 1, 0),
     Races("Nymph", True, 2, 2, 3, 8, 7, 5),
     Races("Elf", True, 2, 3, 2, 9, 8, 7),
-    Races("Centaur", False, 6,7,6,0,3,3),
+    Races("Centaur", False, 7,7,7,0,7,7),
     Races("Dwarf", False, 8,9,7,0,2,2)
 ]
     
