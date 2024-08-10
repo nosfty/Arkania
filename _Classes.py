@@ -27,9 +27,6 @@ class Slot:
 
 
 class Inventory:
-
-
-
     def __init__(self) -> None:
         self.filled_slots = 0
         self.max_slots = 0
