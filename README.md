@@ -1,6 +1,6 @@
 # In progress
 
-Already Done
+Already Done / In Progress
 - Inventory
 - item system
 - Game lore
