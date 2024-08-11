@@ -2,6 +2,15 @@
 
 ## Arkania - old school text (mmo probably) rpg game.
 
+Available classes
+- Human
+- Draconian 
+- Sylph
+- Golem
+- Nymph
+- Elf
+- Centaur
+- Dwarf
 
 
 
