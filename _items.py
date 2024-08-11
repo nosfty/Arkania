@@ -14,6 +14,12 @@ class ResourceItem(Item):
         self.type = type
 
 
+class ToolItem(Item):
+    def __init__(self, Recipe: list, Name:str, Rarity: str, enchant:str, durability:int, effective:int) -> None:
+        Item.__init__(self, Recipe, Name, Rarity)
+        self.enchant = enchant
+        self.durability = durability
+        self.Effective = effective
 
 
 class MeleeItem(Item):
@@ -24,7 +30,12 @@ class MeleeItem(Item):
 
 
 
+# : Items List
+
 _resource_item = [
     ResourceItem(None, "Stick", "Common", "Wood"),
-    ResourceItem(None, "Iron Ore", "Common", "Ore")
+    ResourceItem(None, "Iron Ore", "Common", "Ore"),
+    ToolItem(["Stick", "Iron Ore"], "Iron Shovel",  "Common", None, 12,12)
     ]
+
+
