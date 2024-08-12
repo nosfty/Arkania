@@ -16,7 +16,7 @@ Available classes
 
 Already Done/In Progress
 - Inventory
-- 
+- Craft
 - item system
 - Game lore
 - Races of game characters.
