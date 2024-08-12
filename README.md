@@ -1,6 +1,6 @@
 # In progress
 
-## Arkania - old school text (mmo probably) rpg game.
+## Arkania - old school ascii (mmo probably) rpg game.
 
 Available classes
 - Human
