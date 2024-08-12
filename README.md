@@ -24,7 +24,6 @@ Already Done/In Progress
 - Races of game characters.
   
 To Do:
-- Character System
 - Craft
 - Text Input System
 - Save\Load
